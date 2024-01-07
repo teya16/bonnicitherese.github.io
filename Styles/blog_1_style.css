@@ -53,6 +53,10 @@ width: 700px;
 color: black;
 }
 
+.card_custom p{
+font-weight: 100;
+}
+
 .card_custom a{
 color: #08181e;
 }
