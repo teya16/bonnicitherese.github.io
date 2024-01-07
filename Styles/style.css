@@ -3,7 +3,7 @@ box-sizing: border-box;
 }
 
 a{
-color: black;
+color: aliceblue;
 text-decoration: none;
 
 }
@@ -43,6 +43,7 @@ padding: 20px;
 margin-top: 20px;
 border-radius: 15px;
 margin-left: 1.5em;
+color: aliceblue;
 }
 
 .card2{
@@ -152,6 +153,7 @@ background-color: #2e465C;
 font-size: .9em;
 margin-top: 2em;
 padding: 1.11em 0;
+color: white;
 }
 
 .contact-form label, 
