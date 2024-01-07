@@ -50,6 +50,7 @@ margin-left: 1.5em;
 display: table-caption;
 margin-top: 0.5em;
 width: 700px;
+color: #f03378;
 }
 
 .card_custom p{
@@ -80,4 +81,8 @@ color: #f03378;
 
 .top-text a:hover{
 color: #f36296;
+}
+
+.top-text h3{
+color: #f03378;
 }
