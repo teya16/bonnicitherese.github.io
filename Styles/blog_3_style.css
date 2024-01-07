@@ -53,6 +53,10 @@ width: 700px;
 color: #bdb7fb;
 }
 
+.card_custom p{
+font-weight: 100;
+}
+
 .card_custom a{
 color: #f8b1b3;
 }
