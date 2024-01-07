@@ -52,6 +52,9 @@ margin-top: 0.5em;
 width: 700px;
 }
 
+.card_custom p{
+font-weight: 100;
+}
 
 .card_custom a{
 color: #f03378;
