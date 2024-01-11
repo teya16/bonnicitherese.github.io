@@ -73,6 +73,7 @@ margin-top: .5em;
 .top-text{
 margin-left: 2em;
 padding-top: 1em;
+color: #223d47; 
 }
 
 .top-text a{
@@ -81,8 +82,4 @@ color: #223d47;
 
 .top-text a:hover{
 color: white;
-}
-
-.top-text h3{
-color: #223d47;
 }
